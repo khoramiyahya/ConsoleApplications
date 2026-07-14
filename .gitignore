@@ -67,3 +67,10 @@ nunit-*.xml
 /.vs/VSWorkspaceState.json
 /.vs/ConsoleApplications/v17/.wsuo
 /.vs/ConsoleApplications/v17/DocumentLayout.json
+*.json
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/CodeChunks.db
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/CodeChunks.db-shm
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/CodeChunks.db-wal
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/SemanticSymbols.db
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/SemanticSymbols.db-shm
+/ConsoleApplications/.vs/ConsoleApplications/CopilotIndices/17.14.1681.23550/SemanticSymbols.db-wal

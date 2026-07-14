@@ -55,3 +55,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+*.v2
+*.vsidx
+/ConsoleApplications/.vs/ConsoleApplications/v17/.suo
+/ConsoleApplications/.vs/ConsoleApplications/v17/DocumentLayout.backup.json
+/ConsoleApplications/.vs/ConsoleApplications/v17/DocumentLayout.json
+/ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.metadata.v9.bin
+/ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.projects.v9.bin
+/ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.strings.v9.bin

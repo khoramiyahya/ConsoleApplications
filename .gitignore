@@ -63,3 +63,7 @@ nunit-*.xml
 /ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.metadata.v9.bin
 /ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.projects.v9.bin
 /ConsoleApplications/.vs/ProjectEvaluation/consoleapplications.strings.v9.bin
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ConsoleApplications/v17/.wsuo
+/.vs/ConsoleApplications/v17/DocumentLayout.json
